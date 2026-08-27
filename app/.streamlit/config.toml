@@ -1,0 +1,11 @@
+[theme]
+primaryColor="#FF6F00"                 # برتقالي صناعي (تحذيري)
+backgroundColor="#0E1117"              # خلفية داكنة قوية
+secondaryBackgroundColor="#1E2228"     # كروت أغمق شوي
+textColor="#FFFFFF"
+font="sans serif"
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
