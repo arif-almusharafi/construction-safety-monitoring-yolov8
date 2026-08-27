@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Runtime data
+*.db
+app/media/*
+!app/media/.gitkeep
+evidence/
+outputs/
+
+# Model artifacts
+*.pt
+*.onnx
+
+# Operating systems and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
